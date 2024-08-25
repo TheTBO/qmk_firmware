@@ -21,6 +21,9 @@
         "cols": ["C9", "C8", "C7", "A8", "C6", "B14", "B13", "B12", "C1", "C2", "A10", "C3", "A6", "C4", "C5"],
         "rows": ["A1", "A2", "A3", "A4", "C13"]
     },
+    "dynamic_keymap": {
+        "layer_count": 9
+    },
     "processor": "WB32FQ95",
     "rgb_matrix": {
         "animations": {
